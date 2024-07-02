@@ -472,7 +472,7 @@ h3 {
     padding: 30px;
     border-radius: 30px;
     flex: 1;
-    height: 600px; /* Fixed height for each article */
+    height: 725px; /* Fixed height for each article */
     flex-direction: column;
     justify-content: space-between; /* Ensures the content inside is spaced out evenly */
 }
